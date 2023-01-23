@@ -98,9 +98,7 @@ Project planning, and Project Management.
 
 ## Education
 
-### 2014 - 05 - 2017 - 05 Bachelor of Science: Computer Science and^
-
-### Programming
+### 2014 - 05 - 2017 - 05, Bachelor of Computer Applications
 
 #### Don Bosco College - Yelagiri, TN
 
