@@ -1,130 +1,77 @@
-
 # Antony Raj
 
+- Email: antonyagustineraj@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/antony-agustine-raj)
+- GitHub: [GitHub Profile](https://github.com/antonyagustine)
 
-Mail Id: antonyagustineraj@gmail.com
-
-Linkedin: http://www.linkedin.com/in/antony-agustine-raj
-
-
-Results-oriented and innovative in software development. Easily communicates complex technical
-requirements to non-technical stakeholders. Excellent record of leading development teams in
-enterprise-wide development projects.
-
-## Technical Profile
-
-- JavaScript
-- Node.js (Expressjs, NestJS, Feathers.js)
-- PHP (Laravel, SuiteCRM)
-- Golang
-- Python (Flask, Django)
-- Deno.js
-- TypeScript
-- Scala, Spark, Apache Airflow
-- jQuery, Vue.js, React
-- Element UI, Material UI, Vuetify, Quasar, Element plus, Bootstrap
-- MySQL, PostgreSQL, MongoDB
-- GitHub/Bitbucket
-- HTTP, REST API, SOAP, GraphQL, Microservices
-- AWS, Azure Databricks
-- JIRA
-- Docker
-
-## Competencies
-
-Technical Architect/Solution Architect.
-
-Software applications, Testing and maintenance, and System improvements.
-
-Product development, Software Development.
-
-Computer engineering, Programming Languages.
-
-New employee mentoring.
-
-Project planning, and Project Management.
-
-## Work History
-
-
-### 2022 - 05 - Current, Senior Software Engineer
-
-#### Contentstack India Private Limited
-
-- **Project** : @contetnstack/cli
-- **Technology/Framework** : Node.js, oclif, TypeScript, JavaScript
-- Building CLI tool to give developers a better experience working with
-    Contentstack products.
-
-### 2022 - 05 - 2022 - 05 Lead Software Engineer
-
-#### Kalsoft Solutions Pvt. Ltd
-
-- **Projects** : Digital DTV (DDTV), eSalesdesk.
-- **Technology/Framework** : JavaScript, Node.js, TypeScript, Nestjs Feathersjs,
-    Vuejs, Quasar, Material UI, Postgress, MongoDB, Redis.
-- DDTV is a real-time digital platform to conduct workshops based on
-    selected products.
-- e-SalesDesk is automating the sales process, creating well-designed
-    proposals and closing deals faster. eSalesDesk is work as a one-stop
-    solution for all sales needs.
-
-### 2019 - 11 - 2020 - 05, DevOps Engineer
-
-#### ProcessDrive India Private Limited
-
-- **Technology/Tools** : Scala, Spark, Apache Airflow, Azure Cloud.
-- We created and managed customer CR on pipelines and scheduled
-    pipelines in Apache airflow, handling data that will come from varying
-    devices and platforms, storing it in databricks, and generating
-    visualization reports.
-
-### 2017 - 09 - 2019 - 11, Software Engineer
-
-#### ProcessDrive India Private Limited
-
-- **Projects** : Nordre aasen (Care-it), Bryn CRM (Bryn Aarflot).
-- Nordre Aasen is a product for IT service configuration for hospitals, and
-    children's care homes known as Care-it. Care-It keeps patient
-    information, such as medicine details, etc. Also, it has task management,
-    and reminder functionality with real-time updates to keep data up to
-    date for users. This application can manage patient details, doctor and
-    nurse tasks, and their priorities. Also, it enables searching, filtering, and
-    generating required output as reports through a friendly GUI.
-- Bryn CRM is to maintain documents in a single place, Created a plugin
-    for CRM. which will sync documents from DocuShare (Xerox) with
-    Paterwin and Visma, and the actual document will be maintained in
-    DocuShare (Xerox).
+## Summary
+Dynamic Senior Software Engineer with a demonstrated history of driving transformative projects and fostering cross-functional collaboration. Proficient in software architecture, CLI tool development, data engineering, and web application design. Recognized for elevating code quality standards. Passionate about leveraging technology to deliver innovative solutions and enhance user experiences.
 
 ## Education
+- Bachelor of Computer Applications
+  - Thiruvalluvar University, April 2017
+  - CGPA: 7.16
 
-### 2014 - 05 - 2017 - 05, Bachelor of Computer Applications
+## Experience
 
-#### Don Bosco College - Yelagiri, TN
+### Senior Software Engineer | Contentstack (May 2022 – Present)
+- Successfully revamped a core feature in the Contentstack CLI tool, resulting in a +100% increase in weekly npm downloads.
+- Led technical initiatives, designed complex solutions, and promoted cross-functional collaboration.
+- Mentored junior developers, reviewed code, and maintained code quality standards.
 
-- Awarded Best Outgoing student of the year 2017
-- Member of Citizen consumer club
-- Elected joint secretary of the IT association
-- Awarded First Price in Inter College fest Techno Freak - **Space'16**
-- Awarded Third Price in Inter College fest Techno Freak - **Space'16**
-- Awarded First Price in Intra College fest Quiz - **TOWER'16**
+### Lead Software Engineer | Kalsoft Solutions Private Limited (May 2020 – Apr 2022)
+- Led the development of a software architecture aimed at improving the existing software by integrating the latest technology stack and enhancing its features for Version 2.
+- Transformed the previous system, which limited users to creating one item at a time in quotations, into Version 2, which brought substantial improvements, empowering users to effortlessly handle more than 4,000 line items simultaneously when creating quotations.
+- Established and enforced best practices for code quality, testing, and deployment to ensure efficient software development.
 
-### 2013 - 06 - 2014 - 04, High School Diploma/+2
+### Data Engineer | ProcessDrive India Private Limited (Sep 2019 – Apr 2020)
+- Designed and executed data pipelines to optimize data processing.
+- Employed extensive datasets to establish data transformation workflows.
+- Collaborated closely with cross-functional teams to ensure data accuracy and integrity.
 
-#### Carmel Hr. Sec School - Carmel Higher Secondary School
+### Software Engineer | ProcessDrive India Private Limited (Sep 2017 – Sep 2019)
+- Developed web applications, emphasizing user experience and performance.
+- Executed the development of RESTful APIs and crafted database models for seamless functionality.
+- Created and maintained well-documented and easily modifiable code.
 
-### 2010 - 06 - 2011 - 04, 10th Standard
+## Projects
 
-#### St' Michaels High School - Michaelpuram
+### csdx (Contentstack CLI Tool/@contentstack/cli)
+- Developed a user-friendly CLI tool for Contentstack using TypeScript/JavaScript, Node.js, Oclif, Mocha, RESTful APIs, GraphQL, and OAuth.
+- Maintained well-documented and easily modifiable code.
 
-## Languages
+### Digital DTV (DDTV)
+- Real-time digital platform for workshops and product comparison using TypeScript/JavaScript, Node.js, Socket.io, AWS, Vue.js, MongoDB, and Redis.
 
-- Tamil
-- English
+### e-Salesdesk
+- Automated sales process and proposal generation using TypeScript/JavaScript, Node.js, Nest.js, Golang, AWS, GraphQL, Vue.js, PostgreSQL, and Redis.
 
-## Hobbies
+### Design Automation (DA)
+- Automated SolidWorks drawing generation and delivery using TypeScript/JavaScript, Node.js, Nest.js, Golang, AWS, Apollo GraphQL, Vue.js, MongoDB, and Redis.
 
-- Listening to music
-- Reading Books
+### Nordre Aasen (Care-it)
+- IT Service Configuration product for hospitals using PHP, Laravel, JavaScript, Vue.js, jQuery, and MYSQL.
 
+### Bryn CRM (Bryn Aarflot)
+- Developed a plugin for document management and synchronization using PHP, Suite CRM, JavaScript, jQuery, and MYSQL.
 
+## Technical Skills
+
+### Languages
+- JavaScript/TypeScript, Node.js, Golang, PHP, Python, Scala, SQL, HTML, CSS
+
+### Frameworks and Libraries
+- Express.js, Nest.js, Feathers.js, Echo, Vue.js, React, Laravel, jQuery, Bootstrap, Oclif, Mocha, Jest
+
+### Databases
+- PostgreSQL, MySQL, MongoDB, Redis
+
+### APIs and Protocols
+- GraphQL, REST, OAuth, Docker, Git
+
+### Cloud Platforms
+- AWS, GCP
+
+## Awards
+- Best Student of the Year - Don Bosco College (03/2017)
+- Best Employee Award - ProcessDrive India Private Limited (01/2018)
