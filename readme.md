@@ -5,7 +5,7 @@
 - GitHub: [GitHub Profile](https://github.com/antonyagustine)
 
 ## Summary
-Dynamic Senior Software Engineer with a demonstrated history of driving transformative projects and fostering cross-functional collaboration. Proficient in software architecture, CLI tool development, data engineering, and web application design. Recognized for elevating code quality standards. Passionate about leveraging technology to deliver innovative solutions and enhance user experiences.
+Technical Lead/Senior Software Engineer with a demonstrated history of driving transformative projects and fostering cross-functional collaboration. Proficient in software architecture, CLI tool development, data engineering, and web application design. Recognized for elevating code quality standards. Passionate about leveraging technology to deliver innovative solutions and enhance user experiences.
 
 ## Education
 - Bachelor of Computer Applications
@@ -14,7 +14,9 @@ Dynamic Senior Software Engineer with a demonstrated history of driving transfor
 
 ## Experience
 
-### Senior Software Engineer | Contentstack (May 2022 – Present)
+### Technical Lead | Pickles Auctions (May 2024 – Present)
+
+### Senior Software Engineer | Contentstack (May 2022 – April 2024)
 - Successfully revamped a core feature in the Contentstack CLI tool, resulting in a +100% increase in weekly npm downloads.
 - Led technical initiatives, designed complex solutions, and promoted cross-functional collaboration.
 - Mentored junior developers, reviewed code, and maintained code quality standards.
