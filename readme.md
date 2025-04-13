@@ -66,14 +66,15 @@ Technical Lead/Senior Software Engineer with a demonstrated history of driving t
 - Express.js, Nest.js, Feathers.js, Echo, Vue.js, React, Laravel, jQuery, Bootstrap, Oclif, Mocha, Jest
 
 ### Databases
-- PostgreSQL, MySQL, MongoDB, Redis
+- PostgreSQL, MSSQL, MySQL, MongoDB/Document DB, Redis
 
 ### APIs and Protocols
-- GraphQL, REST, OAuth, Docker, Git
+- GraphQL, REST, OAuth, Docker, Git, gRPC
 
 ### Cloud Platforms
-- AWS, GCP
+- AWS, GCP, Azure
 
 ## Awards
 - Best Student of the Year - Don Bosco College (03/2017)
 - Best Employee Award - ProcessDrive India Private Limited (01/2018)
+- Thank You Award - Contentstack (11/2023)
